@@ -33,6 +33,10 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS 3"
+          },
+          {
+            "name": "VSCode",
+            "class": "devicon-visualstudio-plain"
           }
         ]
       },
@@ -58,6 +62,10 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS 3"
+          },
+          {
+            "name": "VSCode",
+            "class": "devicon-visualstudio-plain"
           }
         ]
       },
@@ -84,43 +92,117 @@
           {
             "class": "devicon-css3-plain",
             "name": "CSS 3"
+          },
+          {
+            "name": "VSCode",
+            "class": "devicon-visualstudio-plain"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ReliTech",
+        "title": "Regional Sales Director",
+        "years": "01.2019 - 12.2023",
         "mainTech": [
-          "Angular 8/9/10"
+          "Salesforce",
+          "Productivity Suite"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Salesforce",
+          "Productivity Suite",
+          "CRM",
+          "SaaS",
+          "PaaS",
+          "IaaS",
+          "Cloud Computing",
+          "Business Intelligence",
+          "Data Analytics",
+          "Data Visualization",
+          "Data Warehousing",
+          "Data Mining",
+          "Machine Learning",
+          "Artificial Intelligence",
+          "IoT",
+          "Blockchain",
+          "Cybersecurity",
+          "Kanban",
+          "Microservices",
+          "Docker",
+          "Ansible",
+          "Chef",
+          "Puppet",
+          "Slack",
+          "Zoom",
+          "Teams",
+          "Skype",
+          "Outlook",
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Access",
+          "OneNote",
+          "Visio",
+          "Project",
+          "SharePoint",
+          "Teams",
+          "OneDrive",
+          "Azure",
+          "AWS",
+          "GCP",
+          "Salesforce Cloud"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Dell EMC",
+        "title": "TSR - Technical Sales Representative III Preferred Accounts",
+        "years": "07.2017 - 01.2019",
         "mainTech": [
-          "Angular 7/8"
+          "Salesforce"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Salesforce",
+          "CRM",
+          "SaaS",
+          "PaaS",
+          "IaaS",
+          "Cloud Computing",
+          "Business Intelligence",
+          "Data Analytics",
+          "Data Visualization",
+          "Data Warehousing",
+          "Data Mining",
+          "Machine Learning",
+          "Artificial Intelligence",
+          "IoT",
+          "Blockchain",
+          "Cybersecurity",
+          "Kanban",
+          "Microservices",
+          "Docker",
+          "Ansible",
+          "Chef",
+          "Puppet",
+          "Slack",
+          "Zoom",
+          "Teams",
+          "Skype",
+          "Outlook",
+          "Word",
+          "Excel",
+          "PowerPoint",
+          "Access",
+          "OneNote",
+          "Visio",
+          "Project",
+          "SharePoint",
+          "Teams",
+          "OneDrive",
+          "Azure",
+          "AWS",
+          "GCP",
+          "Salesforce Cloud"
         ]
       }
     ]
