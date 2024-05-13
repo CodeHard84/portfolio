@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Jace Prince",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Passionate Learner and Aspiring Full-Stack Developer | Actively Upskilling in Modern Web Technologies | Open to New Opportunities and Challenges in Full-Stack Development." ],
       "social": [
         {
           "name": "github",
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "jace.jpg"
     },
     "skills": {
       "icons": [
