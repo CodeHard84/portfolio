@@ -11,70 +11,79 @@
   },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "TorTrak",
+        "startDate": "2024",
+        "description": "TorTrak provides a comprehensive and user-friendly solution for visualizing historical tornado occurrences on an interactive map, utilizing JavaScript with chart.js and Leaflet libraries to allow users to plot every recorded tornado onto the map and ascertain impacts on specific areas like residences or workplaces. It features meticulous mapping of tornado paths, interactive charts for statistical analysis of tornado patterns and trends, high-quality map overlays for precise risk assessment, and customizable filters for tailored analyses, empowering users with the data needed for informed tornado preparedness and emergency planning.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/tortrak/tortrakCode.png",
+          "images/portfolio/tortrak/tortrak1.png",
+          "images/portfolio/tortrak/tortrak2.png",
+          "images/portfolio/tortrak/Tortrak3.png"
         ],
-        "url": "",
+        "url": "https://codehard84.github.io/TorTrak/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Pat's Salmon Cookies",
+        "startDate": "2024",
+        "description": "Pat's Salmon Cookies was one of the inaugural projects I tackled during my coding bootcamp; this imaginative application simulates the daily operations of a cookie store, where users can specify their expected hourly sales of cookies, and based on these inputs, the application dynamically generates a comprehensive table that displays the projected sales for each hour alongside the cumulative sales for the entire day. This project was instrumental in bolstering my proficiency in JavaScript, introduced me to essential programming concepts such as dynamically updating content in response to user inputs, and I gained hands-on experience with JavaScript’s core constructs, including arrays, objects, and functions, which are fundamental to manipulating data and structuring applications; furthermore, Pat’s Salmon Cookies provided a practical framework for understanding how to capture and process user input effectively, showcasing the real-world utility of interactive web applications, and through this project, I not only refined my technical skills but also developed a deeper appreciation for the intricacies of web development.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/salmon/salmon1.png",
+          "images/portfolio/salmon/salmon2.png",
+          "images/portfolio/salmon/salmon3.png"
         ],
-        "url": "https://github.com",
+        "url": "https://codehard84.github.io/cookie-stand/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
+          }
+        ]
+      },
+      {
+        "title": "Odd-Duck",
+        "startDate": "2024",
+        "description": "Odd-Duck is one of the first applications I developed during my student days. This engaging web app is designed with a simple yet interactive concept: users click on their favorite images from a selection presented in each round. As participants navigate through various rounds, they choose images that appeal to them the most. At the conclusion of all rounds, Odd-Duck compiles and displays the results, revealing the images that received the most selections. This project not only allowed me to explore and implement basic user interactions but also served as an excellent introduction to handling dynamic content and user inputs in a web environment.",
+        "images": [
+          "images/portfolio/oddduck/oddduckCode.png",
+          "images/portfolio/oddduck/oddduck1.png",
+          "images/portfolio/oddduck/oddduck2.png",
+          "images/portfolio/oddduck/oddduck3.png"
+        ],
+        "url": "https://codehard84.github.io/odd-duck/",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS 3"
           }
         ]
       }
