@@ -2,7 +2,7 @@
 
 ## Live URL
 
-[https://jaceprince.netlify.app/](https://jaceprince.netlify.app/)
+[https://beardedjace.com](https://beardedjace.com/)
 
 ### Special thanks
 
